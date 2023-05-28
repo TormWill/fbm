@@ -525,11 +525,11 @@ button {
     font-weight: 500;
 }
 
-.image_3 {
+.image_shop {
     width: 100%;
     text-align: center;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 120px;
+    min-height: 332px;
 }
 
 .image_4 {
