@@ -532,6 +532,14 @@ button {
     min-height: 332px;
 }
 
+.image_3 {
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    min-height: 332px;
+}
+
 .image_4 {
     width: 100%;
     text-align: center;
